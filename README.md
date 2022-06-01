@@ -1,8 +1,6 @@
 # Standing_vs_New_Mutations
 These are a merged R script and data used in
-Author:Minako Izutsu and Richard E. Lenski 
-Title: Experimental Test of the Contributions of Initial Variation and New Mutations to Adaptive Evolution in a Novel Environment
-Preprint: available at bioRxiv soon.
+Minako Izutsu and Richard E. Lenski, 2022 [Preprint], Experimental Test of the Contributions of Initial Variation and New Mutations to Adaptive Evolution in a Novel Environment, [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.31.494207v1).
 All csv files include raw data (i.e., colony count) except All_average216.csv.
 The raw colony count data for All_average216.csv will be available upon request.
 
